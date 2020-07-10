@@ -29,7 +29,7 @@ allprojects {
 
 Add the dependency:
 ```groovy
-compile 'com.github.kbiakov:CodeView-Android:1.3.2'
+implementation 'com.github.kbiakov:CodeView-Android:1.3.2'
 ```
 
 ## Usage
